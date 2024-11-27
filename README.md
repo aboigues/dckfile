@@ -1,6 +1,6 @@
 # dckfile
 
-Projet Dockerfile a des fins pédagogiques
+Projet Dockerfile à des fins strictement pédagogiques
 
 Reconstruisez l’image après modification :
 
